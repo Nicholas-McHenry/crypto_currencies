@@ -1,0 +1,33 @@
+/* Some CSS for the project */
+.menuButton {
+  margin-right: 5%;
+}
+
+.my-top-app-bar {
+  color: #e5d02d;
+}
+
+button.loginBtn {
+  margin-left: auto;
+  background-color: purple;
+  color: white;
+}
+
+button.loginBtn:hover {
+  background-color: indigo;
+}
+
+button.loginBtn:disabled {
+  color: black;
+  background-color: skyblue;
+}
+
+div.profile-card {
+  margin: 30px 0 0 100px;
+  max-width: 350px;
+  border: none;
+}
+
+.profile-card img {
+  max-width: 180px;
+}
